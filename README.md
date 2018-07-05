@@ -8,9 +8,9 @@ Source: https://github.com/mahdi1375/Student-Online-Resume
 - Initial release
 
 ##Install
-- Import  in your workspace
-- Import  in your workspace
-- Import objects of  in your workspace
+- Import Student Resume 1 in your workspace
+- Import Student Resume 2 in your workspace
+- Import objects of Student Resume Object file in your workspace
 ---
 
 You can help by filling issues through Github.
